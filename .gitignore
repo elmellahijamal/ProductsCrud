@@ -1,0 +1,15 @@
+# Node.js
+node_modules
+build
+.env
+
+# React
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# .NET
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
